@@ -1,6 +1,6 @@
 # Club 520 Podcast — Official Website
 
-Official website for the **Club 520 Podcast**, hosted by former NBA All-Star **Jeff Teague**, **DJ Wells**, and **B Hen**. Part of The Volume Network.
+Unofficial website for the **Club 520 Podcast**, hosted by former NBA All-Star **Jeff Teague**, **DJ Wells**, and **B Hen**. Part of The Volume Network.
 
 > No scripts. No filters. Just ball.
 
